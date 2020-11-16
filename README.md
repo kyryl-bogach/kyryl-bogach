@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kyryl-bogach/kyryl-bogach/main/logo/KB1%2B.jpg">
+
 ## Hi, my name is Kyryl 👋
 ### I'm a Software Engineer 👨‍💻
 
