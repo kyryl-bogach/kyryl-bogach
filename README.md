@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning <a target="_blank" href="https://www.mongodb.com/mern-stack">MERM Stack</a>
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: kyryl.bogach@gmail.com
-- 🌎 Web Page <a target="_blank" href="https://kyryl.bogach.com">kyryl.bogach.es</a>
-- ⚡ Fun fact: My cat 🐈 has it's own webpage <a target="_blank" href="https://casak.bogach.com">casak.bogach.es</a>
+- 🌎 Web Page <a target="_blank" href="https://kyryl.bogach.es">kyryl.bogach.es</a>
+- ⚡ Fun fact: My cat 🐈 has it's own webpage <a target="_blank" href="https://casak.bogach.es">casak.bogach.es</a>
 
 ### ⚡ Technologies
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
