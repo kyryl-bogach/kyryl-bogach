@@ -9,7 +9,7 @@
 - 📫 How to reach me: kyryl.bogach@gmail.com
 - 👨‍💼 LinkedIn <a target="_blank" href="https://www.linkedin.com/in/kyryl-bogach/">@kyryl-bogach</a>
 - 🌎 Web Page <a target="_blank" href="https://kyryl.bogach.es">kyryl.bogach.es</a>
-- 📸 Instragram <a target="_blank" href="https://www.instagram.com/bogach.developer">@bogach.developer</a>
+- 📸 Instragram <a target="_blank" href="https://www.instagram.com/bogach.software">@bogach.software</a>
 - ⌨️ IDE of choice: Jetbrains ❤️
 - ⚡ Fun fact: My cat 🐈 has it's own webpage <a target="_blank" href="https://casak.bogach.es">casak.bogach.es</a>
 
