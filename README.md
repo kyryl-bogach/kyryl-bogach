@@ -5,13 +5,14 @@
 
 - 💼 I’m currently working at <a target="_blank" href="https://github.com/myworkout">@myworkout</a>
 - 🌱 I’m currently learning <a target="_blank" href="https://www.mongodb.com/mern-stack">MERM Stack</a> & <a target="_blank" href="https://kotlinlang.org/">Kotlin</a>
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on: Open Source Projects
 - 📫 How to reach me: kyryl.bogach@gmail.com
-- 👨‍💼 LinkedIn <a target="_blank" href="https://www.linkedin.com/in/kyryl-bogach/">@kyryl-bogach</a>
-- 🌎 Web Page <a target="_blank" href="https://kyryl.bogach.es">kyryl.bogach.es</a>
-- 📸 Instragram <a target="_blank" href="https://www.instagram.com/bogach.software">@bogach.software</a>
-- ⌨️ IDE of choice: Jetbrains ❤️
--  🐈 Fun fact: My cat, Casak, has its own webpage <a target="_blank" href="https://casak.bogach.es">casak.bogach.es</a>
+- 👨‍💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/kyryl-bogach/">@kyryl-bogach</a>
+- 🌎 Web Page: <a target="_blank" href="https://kyryl.bogach.es">kyryl.bogach.es</a>
+- 📸 Instragram: <a target="_blank" href="https://www.instagram.com/bogach.software">@bogach.software</a>
+- ⌨️ IDE of choice: Jetbrains
+- ☯ Theme of choice: Dark mode everything 🖤
+- 🐈 Fun fact: My cat, Casak, has its own webpage <a target="_blank" href="https://casak.bogach.es">casak.bogach.es</a>
 
 ### ⚡ Technologies
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
