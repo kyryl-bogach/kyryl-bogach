@@ -32,10 +32,13 @@
 ![dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![gnu](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 <!--
 **kyryl-bogach/kyryl-bogach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/Ileriayo/markdown-badges
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
