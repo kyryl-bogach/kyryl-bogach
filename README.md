@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/kyryl-bogach/kyryl-bogach/main/logo/KB1%2B.jpg">
+![Logo](./logo/KB1-.png#gh-dark-mode-only)
+![Logo](./logo/KB1%2B.jpg#gh-light-mode-only)
 
 ## Hi, my name is Kyryl 👋
 ### I'm a Software Engineer 👨‍💻
