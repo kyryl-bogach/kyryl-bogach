@@ -44,9 +44,8 @@
 ![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### 📊 Stats
-![kyryl-bogach-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyryl-bogach&theme=tokyonight&count_private=true)
 ![kyryl-bogach-gitHub-stats](https://github-readme-stats.vercel.app/api?username=kyryl-bogach&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
-
+![kyryl-bogach-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyryl-bogach&theme=tokyonight&count_private=true&layout=compact)
 
 
 <!--
