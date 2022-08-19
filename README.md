@@ -2,7 +2,7 @@
 ![Logo](./logo/KB1%2B.jpg#gh-light-mode-only)
 
 ## Hi, my name is Kyryl 👋
-### I'm a Software Engineer 👨‍💻
+### 👨‍💻 I'm a Software Engineer
 
 - 💼 I’m currently working at <a target="_blank" href="https://github.com/myworkout">@myworkout</a>
 - 🌱 I’m currently learning <a target="_blank" href="https://www.mongodb.com/mern-stack">MERM Stack</a> & <a target="_blank" href="https://kotlinlang.org/">Kotlin</a>
@@ -42,6 +42,11 @@
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![apollo-graphql](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### 📊 Stats
+![kyryl-bogach-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyryl-bogach&theme=tokyonight&count_private=true)
+![kyryl-bogach-gitHub-stats](https://github-readme-stats.vercel.app/api?username=kyryl-bogach&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
+
 
 
 <!--
