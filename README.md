@@ -19,5 +19,14 @@ I design and build scalable, production-grade systems with a strong focus on AI-
 - 🌐 Website: https://kyryl.bogach.es  
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyryl-bogach&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyryl-bogach&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.bogach.es/api?username=kyryl-bogach&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+
+![Top Languages](https://github-readme-stats.bogach.es/api/top-langs/?username=kyryl-bogach&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5)
+
+## 📌 Featured
+
+[![Readme Card](https://github-readme-stats.bogach.es/api/pin/?username=kyryl-bogach&repo=REPO_NAME_1&theme=dark)](https://github.com/kyryl-bogach/REPO_NAME_1)
+[![Readme Card](https://github-readme-stats.bogach.es/api/pin/?username=kyryl-bogach&repo=REPO_NAME_2&theme=dark)](https://github.com/kyryl-bogach/REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.bogach.es/api/pin/?username=kyryl-bogach&repo=REPO_NAME_3&theme=dark)](https://github.com/kyryl-bogach/REPO_NAME_3)
+
