@@ -21,25 +21,14 @@ My main tools include TypeScript, Node.js, Next.js, PHP, and PostgreSQL.
 
 ## Code and collaboration
 
-My work spans public and private repositories. The card below shows commits, pull requests, merged pull requests, and code reviews.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495">
-  <img src="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495" alt="GitHub commits, pull requests, merged pull requests, and code reviews" width="495">
+  <img src="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495" alt="Commits, pull requests, merged pull requests, and code reviews" width="495">
 </picture>
-
-The card includes private repositories that my stats service can access. Reviews cover the past year. Commits and pull requests cover available history.
-
-[View my contribution graph and activity](https://github.com/kyryl-bogach?tab=overview), including anonymized private contributions that the card cannot classify.
-
-<details>
-  <summary>Languages in repositories I own</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;theme=github_dark&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=clinicafabregat,web">
-  <img src="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=clinicafabregat,web" alt="Languages in my own GitHub repositories" width="495">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;theme=github_dark&amp;langs_count=8&amp;card_width=495&amp;include_contributed=true&amp;equal_repo_weight=true&amp;exclude_repo=clinicafabregat,web,briannesbitt/Carbon&amp;custom_title=Languages%20I%20work%20in">
+  <img src="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;include_contributed=true&amp;equal_repo_weight=true&amp;exclude_repo=clinicafabregat,web,briannesbitt/Carbon&amp;custom_title=Languages%20I%20work%20in" alt="Languages I work in" width="495">
 </picture>
 
-The language card summarizes code in my own public and accessible private repositories. It excludes two repositories that commit third-party code, because that code is not mine. It also excludes repositories owned by organizations, so it understates the languages I use at work.
-
-</details>
+[Contribution graph and activity](https://github.com/kyryl-bogach?tab=overview)
