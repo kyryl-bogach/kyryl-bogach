@@ -22,8 +22,8 @@ My main tools include TypeScript, Node.js, Next.js, PHP, and PostgreSQL.
 ## Code and collaboration
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495">
-  <img src="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495" alt="Commits, pull requests, merged pull requests, and code reviews" width="495">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;include_all_contributions=true&amp;theme=github_dark&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=contributions,prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495">
+  <img src="https://github-readme-stats.bogach.es/api?username=kyryl-bogach&amp;show_icons=true&amp;include_all_contributions=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=contributions,prs_merged,reviews&amp;number_format=long&amp;custom_title=Code%20%26%20collaboration&amp;card_width=495" alt="Contributions, commits, pull requests, merged pull requests, and code reviews" width="495">
 </picture>
 
 [Contribution graph and activity](https://github.com/kyryl-bogach?tab=overview)
