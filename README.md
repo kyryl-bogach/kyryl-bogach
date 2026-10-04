@@ -36,10 +36,10 @@ The card includes private repositories that my stats service can access. Reviews
   <summary>Languages in repositories I own</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;theme=github_dark&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5">
-  <img src="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5" alt="Languages in my own GitHub repositories" width="495">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;theme=github_dark&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=clinicafabregat,web">
+  <img src="https://github-readme-stats.bogach.es/api/top-langs?username=kyryl-bogach&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=clinicafabregat,web" alt="Languages in my own GitHub repositories" width="495">
 </picture>
 
-The language card summarizes code in my own public and accessible private repositories.
+The language card summarizes code in my own public and accessible private repositories. It excludes two repositories that commit third-party code, because that code is not mine. It also excludes repositories owned by organizations, so it understates the languages I use at work.
 
 </details>
