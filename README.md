@@ -23,5 +23,5 @@ My main tools include TypeScript, Node.js, Next.js, PHP, and PostgreSQL.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/cards/summary-dark.svg">
-  <img src="https://github-readme-stats.bogach.es/cards/summary-light.svg" alt="9,870 GitHub contributions since 2017. In 2026 the work splits 42% commits, 35% reviews, 23% pull requests." width="495">
+  <img src="https://github-readme-stats.bogach.es/cards/summary-light.svg" alt="8,532 code contributions since 2017, on pace for 1,514 in 2026. This year: 419 commits, 357 reviews, 227 pull requests." width="495">
 </picture>
