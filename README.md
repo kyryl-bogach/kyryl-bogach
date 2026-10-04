@@ -22,6 +22,6 @@ My main tools include TypeScript, Node.js, Next.js, PHP, and PostgreSQL.
 ## Code and collaboration
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/cards/summary-dark.svg">
-  <img src="https://github-readme-stats.bogach.es/cards/summary-light.svg" alt="8,532 code contributions since 2017, on pace for 1,514 in 2026. This year: 419 commits, 357 reviews, 227 pull requests." width="495">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.bogach.es/cards/summary-dark.svg?v=2">
+  <img src="https://github-readme-stats.bogach.es/cards/summary-light.svg?v=2" alt="8,532 code contributions since 2017, on pace for 1,514 in 2026. This year: 419 commits, 357 reviews, 227 pull requests." width="495">
 </picture>
